@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e9cc68c-08cf-477f-8d67-7e2dc5cf3a2c" name="Default Changelist" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/注释.html" afterPath="$PROJECT_DIR$/注释.html" />
+    <list default="true" id="9e9cc68c-08cf-477f-8d67-7e2dc5cf3a2c" name="Default Changelist" comment="注释修改">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -475,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584366073272</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="注释修改">
+      <created>1586773967994</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586773967994</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -507,7 +514,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="注释修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="注释修改" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
